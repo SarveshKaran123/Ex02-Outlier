@@ -39,8 +39,8 @@ Plot the datas using Box Plot.
 # PROGRAM
 
 ```
-Developed by : THAMARAISELVAN V
-Registration Number : 212221230115
+Developed by : SARVESHKARAN
+Registration Number : 212221230089
 ```
 ```
 import pandas as ps
